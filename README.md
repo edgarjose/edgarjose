@@ -1,45 +1,27 @@
-<h2 align="left">Olá, bem-vindo! 👋! Sou o Edgar José.</h2>
+# Olá, sou o Edgar José
 
-###
+Partilho projetos e experiências sobre AWS, redes e aplicações na cloud. Este perfil reúne os laboratórios que uso para aprender, testar comportamentos e explicar as decisões por trás de uma arquitetura.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+## Cloud in Practice
 
-###
+Uma série do canal **Practical Cloud Lab**: uma questão de cloud, um pequeno projeto e testes para perceber o que acontece.
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCpmDKumnarynaM7OF9NYV3A" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/edgar_jose_412cdf41fb30a0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  </a>
-</div>
+- [Canal no YouTube](https://www.youtube.com/channel/UCpmDKumnarynaM7OF9NYV3A)
+- [Edgar's Cloud Notes](https://www.edgarcloudnotes.com/)
+- [Artigos no DEV Community](https://dev.to/edgar_jose_412cdf41fb30a0)
 
-###
+## Projetos em destaque
+
+| Projeto | O que explora |
+| --- | --- |
+| [ECS Networking & Service Discovery](https://github.com/edgarjose/ecs-networking-service-discovery-lab) | DNS privado, comunicação entre tasks Fargate e comportamento durante falhas |
+| [CloudFormation: referências entre stacks](https://github.com/edgarjose/aws-cloudformation-cross-reference) | Exports, imports e dependências entre rede, ALB e Auto Scaling |
+| [CloudFormation: nested stacks](https://github.com/edgarjose/aws-cloudformation-nested-stacks) | Componentes de infraestrutura ligados por uma stack principal |
+| [CodeBuild + CloudFormation](https://github.com/edgarjose/cicd-staticwebapp-cloudformation-codebuild) | Validação, empacotamento e implementação de infraestrutura |
+| [Aplicação PHP em Kubernetes](https://github.com/edgarjose/deploy-dynamic-applicaction-on-kubernetes) | Deployments, Services e ligação a MySQL |
+
+## Áreas de trabalho
+
+AWS · Networking · Linux · Docker · Kubernetes · CloudFormation · Terraform · Python · PHP · MySQL
+
+Os repositórios são materiais de laboratório. Cada projeto indica os pré-requisitos, a forma de validar o resultado e as limitações conhecidas. Não devem ser tratados automaticamente como configurações prontas para produção.
